@@ -1,22 +1,10 @@
 {
-    "name": "laravelcollective/html",
-    "description": "HTML and Form Builders for the Laravel Framework",
+    "name": "010bit-com/laravel-html",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
     "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
+        "issues": "https://github.com/010bit-com/laravel-html/issues",
+        "source": "https://github.com/010bit-com/laravel-html"
     },
-    "authors": [
-        {
-            "name": "Adam Engebretson",
-            "email": "adam@laravelcollective.com"
-        },
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
-        }
-    ],
     "require": {
         "php": ">=7.2.5",
         "illuminate/http": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
@@ -53,6 +41,5 @@
         }
     },
     "minimum-stability": "dev",
-    "abandoned": "spatie/laravel-html",
     "prefer-stable": true
 }
